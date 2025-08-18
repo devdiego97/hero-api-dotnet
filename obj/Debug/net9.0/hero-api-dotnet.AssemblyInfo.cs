@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("hero-api-dotnet")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8256e8b03084a608e0f119a4a1a0b141d0069828")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+63a2d798cca1907c9b3f16ab771c6bfe39648be8")]
 [assembly: System.Reflection.AssemblyProductAttribute("hero-api-dotnet")]
 [assembly: System.Reflection.AssemblyTitleAttribute("hero-api-dotnet")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
